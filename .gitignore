@@ -1,0 +1,46 @@
+/.angular/cache
+# Specifies intentionally untracked files to ignore when using Git
+# http://git-scm.com/docs/gitignore
+
+*~
+*.sw[mnpcod]
+.tmp
+*.tmp
+*.tmp.*
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
+UserInterfaceState.xcuserstate
+$RECYCLE.BIN/
+
+*.log
+log.txt
+npm-debug.log*
+
+/.idea
+/.ionic
+/.sass-cache
+/.sourcemaps
+/.versions
+/.vscode
+/coverage
+/node_modules
+/platforms
+/plugins
+/www
+
+
+
+resources/android/icon
+resources/android/splash
+resources/ios/icon
+resources/ios/splash
+
+## Local history plugin vscode
+.history
+
+## Android
+.gradle/
+android/.idea
+src/assets/plugins/*
